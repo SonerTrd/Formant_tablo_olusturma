@@ -8,7 +8,7 @@
 # Textgrid dosyasinda kac dizi var?
 	v_tier = 1
 
-# Tablo olusturma
+# Tablo olusturmak
 	Create Table with column names: "formants", 0, "vowel time_index v_time time_abs F1 F2 F3"
 	row_index = 0
 
