@@ -4,7 +4,7 @@ library(zoo)
 rm(list = ls())
  
 # olusturdugumuz formant tablosunun yer aldigi klasoru hazirliyoruz
-setwd("C:/Users/SonerTrd/Desktop/unlu_semasi")
+setwd("C:/Users/......")
 
 df <- read.csv("formants.Table", stringsAsFactors = FALSE) 
 
